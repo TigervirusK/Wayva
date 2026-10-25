@@ -1,0 +1,33 @@
+{
+  "reviewed_on": "2026-10-25",
+  "scope": "Small, manually reviewed identity/city/area reference index. Not live geocoding, opening hours, menu prices, routes, or availability. Add reviewed sources to extend coverage.",
+  "places": [
+    {"id":"sensoji","name":"Sensoji Temple","city":"Tokyo","area":"Asakusa","aliases":["sensoji","senso ji","sensō ji","sensōji"],"source":"https://www.gotokyo.org/en/see-and-do/attractions/","kind":"activity"},
+    {"id":"asakusa","name":"Asakusa neighborhood","city":"Tokyo","area":"Asakusa","aliases":["asakusa"],"source":"https://www.gotokyo.org/en/see-and-do/attractions/","kind":"activity"},
+    {"id":"ueno-park","name":"Ueno Park","city":"Tokyo","area":"Ueno","aliases":["ueno park"],"source":"https://www.gotokyo.org/en/destinations/northern-tokyo/ueno/index.html","kind":"activity"},
+    {"id":"tokyo-national-museum","name":"Tokyo National Museum","city":"Tokyo","area":"Ueno","aliases":["tokyo national museum"],"source":"https://www.gotokyo.org/en/destinations/northern-tokyo/ueno/index.html","kind":"activity"},
+    {"id":"shibuya","name":"Shibuya neighborhood and crossing","city":"Tokyo","area":"Shibuya","aliases":["shibuya crossing","shibuya scramble","shibuya"],"source":"https://www.gotokyo.org/en/see-and-do/attractions/","kind":"activity"},
+    {"id":"shinjuku","name":"Shinjuku neighborhood","city":"Tokyo","area":"Shinjuku","aliases":["shinjuku"],"source":"https://www.gotokyo.org/en/see-and-do/attractions/","kind":"activity"},
+    {"id":"shinjuku-gyoen","name":"Shinjuku Gyoen National Garden","city":"Tokyo","area":"Shinjuku","aliases":["shinjuku gyoen"],"source":"https://fng.or.jp/shinjuku/en/","kind":"activity"},
+    {"id":"akihabara","name":"Akihabara neighborhood","city":"Tokyo","area":"Akihabara","aliases":["akihabara"],"source":"https://www.gotokyo.org/en/see-and-do/attractions/","kind":"activity"},
+    {"id":"nakano","name":"Nakano neighborhood","city":"Tokyo","area":"Nakano","aliases":["nakano"],"source":"https://www.gotokyo.org/en/spot/index.html","kind":"activity"},
+    {"id":"ikebukuro","name":"Ikebukuro neighborhood","city":"Tokyo","area":"Ikebukuro","aliases":["ikebukuro"],"source":"https://www.gotokyo.org/en/spot/index.html","kind":"activity"},
+    {"id":"kichijoji","name":"Kichijoji neighborhood","city":"Tokyo","area":"Kichijoji","aliases":["kichijoji"],"source":"https://www.gotokyo.org/en/see-and-do/attractions/","kind":"activity"},
+    {"id":"roppongi","name":"Roppongi neighborhood","city":"Tokyo","area":"Roppongi","aliases":["roppongi"],"source":"https://www.gotokyo.org/en/see-and-do/attractions/","kind":"activity"},
+    {"id":"ameyoko","name":"Ameyoko market","city":"Tokyo","area":"Ueno","aliases":["ameyoko","ameya yokocho"],"source":"https://www.mlit.go.jp/tagengo-db/en/R1-00100.html","kind":"food"},
+    {"id":"tsukiji","name":"Tsukiji Outer Market","city":"Tokyo","area":"Tsukiji","aliases":["tsukiji outer market"],"source":"https://www.tsukiji.or.jp/english/","kind":"food","meal_periods":["lunch"]},
+    {"id":"omoide","name":"Omoide Yokocho","city":"Tokyo","area":"Shinjuku","aliases":["omoide yokocho","memory lane"],"source":"https://www.gotokyo.org/en/spot/63/index.html","kind":"food","meal_periods":["dinner"]},
+    {"id":"shibuya-yokocho","name":"Shibuya Yokocho","city":"Tokyo","area":"Shibuya","aliases":["shibuya yokocho"],"source":"https://shibuya-yokocho.com/info/?lang=en","kind":"food"},
+    {"id":"tokyo-ramen-street","name":"Tokyo Ramen Street","city":"Tokyo","area":"Tokyo Station","aliases":["tokyo ramen street"],"source":"https://www.tokyoeki-1bangai.co.jp/street/ramen/","kind":"food"},
+    {"id":"asakusa-mugitoro","name":"Asakusa Mugitoro","city":"Tokyo","area":"Asakusa","aliases":["asakusa mugitoro"],"source":"https://www.mugitoro.co.jp/","kind":"food"},
+    {"id":"asakusa-imahan","name":"Asakusa Imahan Kokusai Street","city":"Tokyo","area":"Asakusa","aliases":["asakusa imahan"],"source":"https://www.asakusaimahan.co.jp/en/kokusai","kind":"food"},
+    {"id":"afuri-harajuku","name":"AFURI Harajuku","city":"Tokyo","area":"Shibuya","aliases":["afuri harajuku"],"source":"https://afuri.com/findus/index.html","kind":"food"},
+    {"id":"maisen-aoyama","name":"MAiSEN Aoyama main restaurant","city":"Tokyo","area":"Shibuya","aliases":["maisen aoyama","mai sen aoyama"],"source":"https://mai-sen.com/restaurant/88dcd35dcaa3002752e73ee827e60e9a.pdf","kind":"food"},
+    {"id":"ginza-lion","name":"Ginza Lion 7-chome","city":"Tokyo","area":"Ginza","aliases":["ginza lion"],"source":"https://www.ginzalion.jp/shop/brand/lion/shop1.html","kind":"food"},
+    {"id":"tokyo-solamachi","name":"Tokyo Solamachi dining","city":"Tokyo","area":"Oshiage","aliases":["tokyo solamachi"],"source":"https://www.tokyo-solamachi.jp/en/","kind":"food"},
+    {"id":"nippon-gourmet-road","name":"Nippon Gourmet Road","city":"Tokyo","area":"Tokyo Station","aliases":["nippon gourmet road","nippon gourmet kaido"],"source":"https://www.tokyoeki-1bangai.co.jp/shop/?anchor=1&area=area6&floor=b1f","kind":"food"},
+    {"id":"sushi-saito","name":"Sushi Saito","city":"Tokyo","area":"Roppongi","aliases":["sushi saito","sushi saitō"],"source":"https://guide.michelin.com/mo/en/article/features/sushisaito","kind":"food","quote_required":true},
+    {"id":"gion","name":"Gion district","city":"Kyoto","area":"Gion","aliases":["gion"],"source":"https://kyoto.travel/en/areas/gion-kiyomizu/","kind":"activity"},
+    {"id":"kiyomizu","name":"Kiyomizu-dera","city":"Kyoto","area":"Higashiyama","aliases":["kiyomizu dera","kiyomizudera"],"source":"https://kyoto.travel/en/areas/gion-kiyomizu/","kind":"activity"}
+  ]
+}
